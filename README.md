@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lishanr" alt="lishanr" /></a> </p>
 
 - 🔭 I’m currently an Undergraduate in **Software Engineering @IIT in collaboration with University of Westminster**
-- 🌱 I’m currently learning **Java - OOP**
+- 🌱 I’m currently learning **Java - OOP, JS & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
