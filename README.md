@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lishanr" alt="lishanr" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Spring, TypeScript, Java - OOP**
+- 🌱 I’m currently learning **JavaScript, React, TypeScript, Java - OOP**
 
 - 📫 How to reach me **lishanweerasuriya@gmail.com**
 
